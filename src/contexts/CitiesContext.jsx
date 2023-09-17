@@ -6,7 +6,7 @@ import {
   useReducer,
 } from "react";
 
-const BASE_URL = "http://localhost:9000";
+const BASE_URL = "https://dev-json-server-in.vercel.app"; // http://localhost:9000
 
 const CitiesContext = createContext();
 
